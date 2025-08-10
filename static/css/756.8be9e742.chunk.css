@@ -1,0 +1,2 @@
+.ball{margin:0;transition:all .5s}@keyframes pulse{0%{box-shadow:0 0 0 0 #fff6}to{box-shadow:0 0 0 10px #0000}}.ball.active{animation:pulse 1s infinite;margin:0 20px}
+/*# sourceMappingURL=756.8be9e742.chunk.css.map*/
