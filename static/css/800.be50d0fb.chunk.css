@@ -1,0 +1,2 @@
+@keyframes anim-to-left{0%{transform:translateX(1rem)}to{transform:translateX(0)}}.animation-to-left{animation:anim-to-left 1s 0s 1 forwards}.opacity--{opacity:var(--i)}.scale--{transform:translateY(calc(5px/var(--i))) scale(calc(.4 + var(--i)*.6))}.adj-m{margin-left:calc(-2px/var(--i))}
+/*# sourceMappingURL=800.be50d0fb.chunk.css.map*/
